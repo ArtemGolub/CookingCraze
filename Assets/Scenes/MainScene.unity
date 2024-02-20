@@ -7417,7 +7417,7 @@ MonoBehaviour:
   TapBlock: {fileID: 2091358853}
   WinWindow: {fileID: 1556102842}
   LoseWindow: {fileID: 1872986065}
-  StartWindow: {fileID: 0}
+  StartWindow: {fileID: 994031955}
 --- !u!4 &869417864
 Transform:
   m_ObjectHideFlags: 0
