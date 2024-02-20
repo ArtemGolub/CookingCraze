@@ -51,9 +51,9 @@ namespace CookingPrototype.Controllers {
 			}
 		}
 
-		void Start() {
-			Init();
-		}
+		// void Start() {
+		// 	Init();
+		// }
 
 		void Update() {
 			if ( !HasFreePlaces ) {
